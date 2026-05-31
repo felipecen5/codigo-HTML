@@ -1,0 +1,1 @@
+function buscar(){ alert("esto es un mensaje")}
